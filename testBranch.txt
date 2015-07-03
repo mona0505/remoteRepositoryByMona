@@ -6,3 +6,4 @@ This file is used to test branch
 789
 >>>>>>> dev
 To fix the conflicts
+abcde
