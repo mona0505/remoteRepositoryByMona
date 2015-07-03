@@ -7,3 +7,4 @@ This file is used to test branch
 >>>>>>> dev
 To fix the conflicts
 abcde
+bbbb
